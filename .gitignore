@@ -1,0 +1,15 @@
+# Simulink generated cache and compiled artifacts
+slprj/
+*.slxc
+*.autosave
+*.asv
+*.m~
+
+# Reproducible large simulation data
+result/*.mat
+
+# MATLAB/OS temporary files
+*.log
+*.tmp
+Thumbs.db
+.DS_Store
